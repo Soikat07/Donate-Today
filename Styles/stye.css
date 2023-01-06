@@ -1,0 +1,47 @@
+*{
+     margin: 0;
+     font-family: sans-serif;
+}
+.primary-text{
+     color: rgb(223, 4, 4);
+}
+.primary-btn{
+margin-top: 30px;
+background-color: rgb(236, 30, 30);
+color: whitesmoke;
+border: none;
+padding: 15px 25px;
+font-weight: 600px;
+font-size:15px;
+border-radius: 6px;
+}
+.header{
+     height: 100vh;
+     width: 100%;
+     background-image: url(../images/donation9.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     text-align: center;
+     /* background: linear-gradient(#121212,rgba(18, 18, 18, 0));
+     background-blend-mode: overlay; */
+}
+.header-container{
+    align-items: center;
+     display:flex;
+     justify-content: center;
+     color: white;
+}
+.header-list{
+     margin: 18% auto 25%;
+     align-items: center; 
+     list-style: none;
+}
+.header-title{
+     font-weight: 700;
+font-size: 33px;
+}
+.header-des{
+margin-top: 20px;
+line-height: 25px;
+font-weight: 400px;
+}
